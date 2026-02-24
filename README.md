@@ -5,7 +5,7 @@ Live App:
 https://football-ai-app-422822231283.us-central1.run.app
 
 <img width="2456" height="1112" alt="image" src="https://github.com/user-attachments/assets/e780b38b-8118-4ca5-98f4-928e9420ab9a" />
-<img width="2456" height="1112" alt="image" src="https://github.com/user-attachments/assets/e780b38b-8118-4ca5-98f4-928e9420ab9a" />
+
 
 ---
 
