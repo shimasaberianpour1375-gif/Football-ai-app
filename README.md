@@ -1,6 +1,7 @@
 # Football AI Match Report & Player Insights  
 ### BigQuery • Vertex AI • Streamlit • Cloud Run
-
+Report:
+https://docs.google.com/document/d/1Hy8zIvBR4jUCD3KuPIN_g5RhNe5nGvVq0sZSJlKZxVc/edit?usp=sharing
 Live App:  
 https://football-ai-app-422822231283.us-central1.run.app
 
