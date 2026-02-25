@@ -13,6 +13,9 @@ https://football-ai-app-422822231283.us-central1.run.app
 
 <img src="https://github.com/user-attachments/assets/e780b38b-8118-4ca5-98f4-928e9420ab9a" alt="Application Screenshot" />
 
+<img width="940" height="269" alt="image" src="https://github.com/user-attachments/assets/adf1af08-3e21-4bbb-87ac-a82d7091de2e" />
+
+
 ---
 
 ## Overview
