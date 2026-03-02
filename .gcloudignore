@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+data/
+events/
+*.json
+*.docx
+*.log
+*.zip
+
+.git/
+.idea/
+.vscode/
+.DS_Store
